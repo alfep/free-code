@@ -6,4 +6,6 @@ cli.exe
 cli-dev.exe
 openclaw/
 .claude/
+.commandcode/
+growtopia-app/
 *.bun-build
